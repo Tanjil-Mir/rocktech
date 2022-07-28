@@ -1,0 +1,13 @@
+.logo-text{
+    font-size: 28px;
+    font-weight: 700;
+    color: #4a4a4a;
+}
+.img-filter{
+    filter: brightness(50%);
+}
+.main-heading{
+    font-size: 60px;
+    font-weight: 700;
+
+}
