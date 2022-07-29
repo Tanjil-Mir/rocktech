@@ -6,10 +6,7 @@
 .img-filter{
     filter: brightness(50%);
 }
-.main-heading{
-    font-size: 60px;
-    font-weight: 700;
-}
+
 .fa-facebook,.fa-tiktok,.fa-square-twitter,.fa-linkedin{
     color: white;
     font-size: 30px;
